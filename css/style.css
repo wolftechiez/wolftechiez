@@ -9835,7 +9835,7 @@ table.tbl-shopping-cart > tfoot > tr > th {
 .shop-sidebar .category-widget .category-list li a:before {
   position: absolute;
   content: "\f0da";
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Pro";
   left: 0px;
   top: 0px;
   font-size: 16px;
@@ -10101,7 +10101,7 @@ Page Title
   color: #ffffff;
   font-size: 14px;
   font-weight: 900;
-  font-family: "Font Awesome 5 Free";
+  font-family: "Font Awesome 6 Pro";
   color: #ffffff;
 }
 .page-breadcrumb li:last-child {
